@@ -1,6 +1,6 @@
 ---
 title: "announcements"
-bg: white
+bg: blue
 color: black
 fa-icon: newspaper-o
 ---
