@@ -14,13 +14,13 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "WAPI - 2nd International Workshop on API Usage and Evolution"
-keywords:    "ICSE, Workshop, API, Usage Patterns, Misuse"
+title:       "SEInfraConfig - 1st International Workshop on Software Engineering for Infrastructure and Configuration Code"
+keywords:    "Workshop, Configuration"
 description: ""
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: "" ## put YOUR key here to enable tracking! (blank to disable)
-source_link: "http://github.com/w-api/w-api.github.io"
+source_link: "http://github.com/seinfraconfig/seinfraconfig.github.io"
 
 
 ### template colors, used site-wide via css ###
@@ -38,8 +38,7 @@ kramdown:
 
 future: true
 
-twitter: wapi2018
-orga-mail: w-api@googlegroups.com
+orga-mail: mark.santolucito@yale.edu
 
 plugins:
     - jekyll-redirect-from
