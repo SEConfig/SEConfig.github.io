@@ -43,4 +43,4 @@ orga-mail: mark.santolucito@yale.edu
 plugins:
     - jekyll-redirect-from
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
