@@ -1,1 +1,1 @@
-# Website of WAPI, the 2nd International Workshop on API Usage and Evolution
+# Website of SEConfig , the 1st International Workshop on Software Eningeering for Infrastructure and Configuration Files

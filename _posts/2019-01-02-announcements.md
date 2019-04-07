@@ -5,5 +5,4 @@ color: black
 fa-icon: newspaper-o
 ---
 
-Stay tuned for announcements...
-
+SEConfig will be hosted as a workshop at ASE - start getting your papers ready!
