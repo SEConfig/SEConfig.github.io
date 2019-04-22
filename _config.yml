@@ -14,13 +14,13 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SEInfraConfig - 1st International Workshop on Software Engineering for Infrastructure and Configuration Code"
+title:       "SEConfig - 1st International Workshop on Software Engineering for Infrastructure and Configuration Code"
 keywords:    "Workshop, Configuration"
 description: ""
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: "" ## put YOUR key here to enable tracking! (blank to disable)
-source_link: "http://github.com/seinfraconfig/seinfraconfig.github.io"
+source_link: "http://github.com/seconfig/seconfig.github.io"
 
 
 ### template colors, used site-wide via css ###
