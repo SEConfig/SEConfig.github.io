@@ -5,7 +5,7 @@ color: black
 fa-icon: newspaper-o
 ---
 
-October 15, 2019 - The schedule of the workshop will be posted soon. Contact us if you have questions!
+November 1, 2019 - The schedule of the workshop has been posted. Contact us if you have questions!
 
 September 15, 2019 - A reminder - camera-ready versions are due Sept. 16th!
 
